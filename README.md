@@ -11,5 +11,8 @@
  3. 이 파일을 사용할시 'Made by. susube2#0505,
 미루#3969' 을 넣어 주시길 바랍니다.
 
+# Invite Sample Bot
+https://discord.com/oauth2/authorize?client_id=881167014247399434&scope=bot%20applications.commands&permissions=2147483647
+
 # Thanks To
 미루#3969, akward01
